@@ -29,9 +29,11 @@ ROW_PATTERN = re.compile(r"""
     (?P<days>\d+)\s*$
 """, re.VERBOSE)
 
+
+
 def extract_rows_from_page_text(text: str):
     """
-    Return up to 366 valid rows after 'Weekly Terminal Transactions' header.
+    Extract only the section starting from 'Weekly Terminal Transactions' up to the last valid row, ignoring any further headers or S/N resets.
     """
     lines = [ln.strip() for ln in (text or "").splitlines() if ln.strip()]
     start_idx = None
@@ -50,8 +52,6 @@ def extract_rows_from_page_text(text: str):
                 "Payment Value": m.group("payment"),
                 "Days Since Last Transaction": m.group("days")
             })
-            if len(results) >= 366:
-                break
     return results
 
 
