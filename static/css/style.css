@@ -7,7 +7,32 @@
   background: #fff;
 }
 button {
-    background-color: teal;
-    color: white;
-    font-weight: bold;
+  background-color: teal;
+  color: white;
+  font-weight: bold;
+}
+
+.response-success {
+  color: #207520;
+  background: #eafbe7;
+  border: 1px solid #b6e2b6;
+  padding: 1em;
+  border-radius: 8px;
+  margin-top: 1em;
+}
+.response-error {
+  color: #a80000;
+  background: #ffeaea;
+  border: 1px solid #ffb6b6;
+  padding: 1em;
+  border-radius: 8px;
+  margin-top: 1em;
+}
+.response-info {
+  color: #1a237e;
+  background: #e3e8ff;
+  border: 1px solid #b6c6ff;
+  padding: 1em;
+  border-radius: 8px;
+  margin-top: 1em;
 }
