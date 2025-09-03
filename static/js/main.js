@@ -34,11 +34,37 @@ document.addEventListener("DOMContentLoaded", function () {
 
       const data = await response.json();
       displayResult(data);
+      addDownloadButton(data);
     } catch (err) {
       resultDiv.textContent = "Error: " + err.message;
       resultDiv.className = "response-error";
     }
   });
+
+  function addDownloadButton(data) {
+    // Remove any previous button
+    let oldBtn = document.getElementById("downloadJsonBtn");
+    if (oldBtn) oldBtn.remove();
+
+    const btn = document.createElement("button");
+    btn.id = "downloadJsonBtn";
+    btn.textContent = "Download JSON";
+    btn.style.marginTop = "1em";
+    btn.onclick = function () {
+      const blob = new Blob([JSON.stringify(data, null, 2)], {
+        type: "application/json",
+      });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = "parsed_result.json";
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    };
+    resultDiv.parentNode.insertBefore(btn, resultDiv.nextSibling);
+  }
 
   function displayResult(data) {
     if (!data || !Array.isArray(data.data)) {

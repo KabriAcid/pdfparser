@@ -1,7 +1,7 @@
 
 from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
-import pdfplumber, re, io
+import pdfplumber, re, io, json, os
 
 app = Flask(__name__)
 CORS(app)  # let your frontend (even on a different port) call this API
@@ -73,19 +73,36 @@ def parse_pdf():
                 text = page.extract_text() or ""
                 if HEADER_PATTERN.search(text):
                     data = extract_rows_from_page_text(text)
-                    return jsonify({
+                    result = {
                         "page_number": idx + 1,
                         "count": len(data),
                         "data": data
-                    }), 200
+                    }
+                    # Log result to logs/parsed_<timestamp>.json
+                    log_dir = os.path.join(os.path.dirname(__file__), "logs")
+                    os.makedirs(log_dir, exist_ok=True)
+                    from datetime import datetime
+                    ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+                    log_path = os.path.join(log_dir, f"parsed_{ts}.json")
+                    with open(log_path, "w", encoding="utf-8") as f:
+                        json.dump(result, f, ensure_ascii=False, indent=2)
+                    return jsonify(result), 200
 
         # If we get here, no matching header was found
-        return jsonify({
+        result = {
             "page_number": None,
             "count": 0,
             "data": [],
             "message": "No page found with header starting 'Weekly Terminal Transactions'."
-        }), 200
+        }
+        log_dir = os.path.join(os.path.dirname(__file__), "logs")
+        os.makedirs(log_dir, exist_ok=True)
+        from datetime import datetime
+        ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+        log_path = os.path.join(log_dir, f"parsed_{ts}.json")
+        with open(log_path, "w", encoding="utf-8") as f:
+            json.dump(result, f, ensure_ascii=False, indent=2)
+        return jsonify(result), 200
 
     except Exception as e:
         return jsonify({"error": f"Failed to parse PDF: {str(e)}"}), 500
