@@ -1,1 +1,8 @@
-/* Basic styles for PDF upload UI */
+.main-container {
+  border: 2px dotted #888;
+  padding: 2rem;
+  border-radius: 12px;
+  max-width: 500px;
+  margin: 2rem auto;
+  background: #fff;
+}
