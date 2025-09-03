@@ -1,12 +1,16 @@
-from flask import Flask, request, jsonify
+
+from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
 import pdfplumber, re, io
 
 app = Flask(__name__)
 CORS(app)  # let your frontend (even on a different port) call this API
-
 # Optional: limit uploads to 15 MB to prevent huge files
 app.config["MAX_CONTENT_LENGTH"] = 15 * 1024 * 1024  # 15 MB
+
+@app.route("/", methods=["GET"])
+def index():
+    return render_template("index.html")
 
 HEADER_PATTERN = re.compile(
     r"^\s*Weekly\s+Terminal\s+Transactions", re.IGNORECASE | re.MULTILINE
@@ -47,15 +51,16 @@ def extract_rows_from_page_text(text: str):
             })
     return results
 
-@app.post("/parse")
+
+@app.route("/parse", methods=["POST"])
 def parse_pdf():
     """
-    Multipart form upload: field name 'file'
+    Multipart form upload: field name 'pdf' (to match frontend JS)
     Returns JSON with the first page whose header starts with 'Weekly Terminal Transactions'.
     """
-    file = request.files.get("file")
+    file = request.files.get("pdf")
     if not file:
-        return jsonify({"error": "No file uploaded. Use form field 'file'."}), 400
+        return jsonify({"error": "No file uploaded. Use form field 'pdf'."}), 400
     if not file.filename.lower().endswith(".pdf"):
         return jsonify({"error": "Only PDF files are supported."}), 400
 

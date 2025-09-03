@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
     resultDiv.className = "response-info";
 
     try {
-      const response = await fetch("/parse", {
+      const response = await fetch("http://127.0.0.1:5000/parse", {
         method: "POST",
         body: formData,
       });
