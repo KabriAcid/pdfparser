@@ -1,11 +1,9 @@
-
 from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
 import pdfplumber, re, io, json, os
 
 app = Flask(__name__)
-CORS(app)  # let your frontend (even on a different port) call this API
-# Optional: limit uploads to 15 MB to prevent huge files
+CORS(app)
 app.config["MAX_CONTENT_LENGTH"] = 15 * 1024 * 1024  # 15 MB
 
 @app.route("/", methods=["GET"])
@@ -32,16 +30,19 @@ ROW_PATTERN = re.compile(r"""
 """, re.VERBOSE)
 
 def extract_rows_from_page_text(text: str):
-    """Return list of dicts with Terminal Serial, Payment Value, Days Since Last Transaction."""
-    # split and keep only non-empty lines
+    """
+    Return up to 366 valid rows after 'Weekly Terminal Transactions' header.
+    """
     lines = [ln.strip() for ln in (text or "").splitlines() if ln.strip()]
-
-    # Optional: drop footer lines like "August 15, 2025 Page 36 of 59"
-    if lines and re.search(r"Page\s+\d+\s+of\s+\d+", lines[-1], re.IGNORECASE):
-        lines = lines[:-1]
-
+    start_idx = None
+    for i, ln in enumerate(lines):
+        if re.search(r"Weekly\s+Terminal\s+Transactions", ln, re.IGNORECASE):
+            start_idx = i + 1
+            break
+    if start_idx is None:
+        return []
     results = []
-    for ln in lines:
+    for ln in lines[start_idx:]:
         m = ROW_PATTERN.match(ln)
         if m:
             results.append({
@@ -49,24 +50,18 @@ def extract_rows_from_page_text(text: str):
                 "Payment Value": m.group("payment"),
                 "Days Since Last Transaction": m.group("days")
             })
+            if len(results) >= 366:
+                break
     return results
-
 
 @app.route("/parse", methods=["POST"])
 def parse_pdf():
-    """
-    Multipart form upload: field name 'pdf' (to match frontend JS)
-    Returns JSON with the first page whose header starts with 'Weekly Terminal Transactions'.
-    """
     file = request.files.get("pdf")
     if not file:
         return jsonify({"error": "No file uploaded. Use form field 'pdf'."}), 400
     if not file.filename.lower().endswith(".pdf"):
         return jsonify({"error": "Only PDF files are supported."}), 400
-
-    # Read into memory (no temp file on disk)
     pdf_bytes = io.BytesIO(file.read())
-
     try:
         with pdfplumber.open(pdf_bytes) as pdf:
             for idx, page in enumerate(pdf.pages):
@@ -78,7 +73,6 @@ def parse_pdf():
                         "count": len(data),
                         "data": data
                     }
-                    # Log result to logs/parsed_<timestamp>.json
                     log_dir = os.path.join(os.path.dirname(__file__), "logs")
                     os.makedirs(log_dir, exist_ok=True)
                     from datetime import datetime
@@ -87,30 +81,22 @@ def parse_pdf():
                     with open(log_path, "w", encoding="utf-8") as f:
                         json.dump(result, f, ensure_ascii=False, indent=2)
                     return jsonify(result), 200
-
-        # If we get here, no matching header was found
-        result = {
-            "page_number": None,
-            "count": 0,
-            "data": [],
-            "message": "No page found with header starting 'Weekly Terminal Transactions'."
-        }
-        log_dir = os.path.join(os.path.dirname(__file__), "logs")
-        os.makedirs(log_dir, exist_ok=True)
-        from datetime import datetime
-        ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-        log_path = os.path.join(log_dir, f"parsed_{ts}.json")
-        with open(log_path, "w", encoding="utf-8") as f:
-            json.dump(result, f, ensure_ascii=False, indent=2)
-        return jsonify(result), 200
-
+            result = {
+                "page_number": None,
+                "count": 0,
+                "data": [],
+                "message": "No page found with header starting 'Weekly Terminal Transactions'."
+            }
+            log_dir = os.path.join(os.path.dirname(__file__), "logs")
+            os.makedirs(log_dir, exist_ok=True)
+            from datetime import datetime
+            ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+            log_path = os.path.join(log_dir, f"parsed_{ts}.json")
+            with open(log_path, "w", encoding="utf-8") as f:
+                json.dump(result, f, ensure_ascii=False, indent=2)
+            return jsonify(result), 200
     except Exception as e:
         return jsonify({"error": f"Failed to parse PDF: {str(e)}"}), 500
 
-@app.get("/health")
-def health():
-    return jsonify({"status": "ok"})
-    
 if __name__ == "__main__":
-    # Dev server
     app.run(host="127.0.0.1", port=5000, debug=True)

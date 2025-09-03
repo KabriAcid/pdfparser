@@ -1,0 +1,71 @@
+{
+  "page_number": 32,
+  "count": 13,
+  "data": [
+    {
+      "Terminal Serial": "D300250205043167",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "1"
+    },
+    {
+      "Terminal Serial": "P260301673196",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "1"
+    },
+    {
+      "Terminal Serial": "P260301299767",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "2"
+    },
+    {
+      "Terminal Serial": "P260301638482",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "4"
+    },
+    {
+      "Terminal Serial": "P260301733753",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "11"
+    },
+    {
+      "Terminal Serial": "P260300623151",
+      "Payment Value": "45,044,300.00",
+      "Days Since Last Transaction": "0"
+    },
+    {
+      "Terminal Serial": "P260300662408",
+      "Payment Value": "43,839,907.00",
+      "Days Since Last Transaction": "0"
+    },
+    {
+      "Terminal Serial": "P260300738594",
+      "Payment Value": "41,753,900.00",
+      "Days Since Last Transaction": "0"
+    },
+    {
+      "Terminal Serial": "P260301103393",
+      "Payment Value": "28,006,800.00",
+      "Days Since Last Transaction": "0"
+    },
+    {
+      "Terminal Serial": "D300241224149059",
+      "Payment Value": "24,930,600.00",
+      "Days Since Last Transaction": "0"
+    },
+    {
+      "Terminal Serial": "P260301701445",
+      "Payment Value": "22,087,650.08",
+      "Days Since Last Transaction": "0"
+    },
+    {
+      "Terminal Serial": "P260300482448",
+      "Payment Value": "18,796,150.00",
+      "Days Since Last Transaction": "0"
+    },
+    {
+      "Terminal Serial": "P260300049787",
+      "Payment Value": "18,523,610.00",
+      "Days Since Last Transaction": "0"
+    }
+  ]
+}

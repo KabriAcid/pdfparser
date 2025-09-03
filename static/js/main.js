@@ -33,43 +33,26 @@ document.addEventListener("DOMContentLoaded", function () {
       }
 
       const data = await response.json();
+      showJson(data);
       displayResult(data);
-      addDownloadButton(data);
     } catch (err) {
       resultDiv.textContent = "Error: " + err.message;
       resultDiv.className = "response-error";
     }
   });
 
-  function addDownloadButton(data) {
-    // Remove any previous button
-    let oldBtn = document.getElementById("downloadJsonBtn");
-    if (oldBtn) oldBtn.remove();
-
-    const btn = document.createElement("button");
-    btn.id = "downloadJsonBtn";
-    btn.textContent = "Download JSON";
-    btn.style.marginTop = "1em";
-    btn.onclick = function () {
-      const blob = new Blob([JSON.stringify(data, null, 2)], {
-        type: "application/json",
-      });
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement("a");
-      a.href = url;
-      a.download = "parsed_result.json";
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      URL.revokeObjectURL(url);
-    };
-    resultDiv.parentNode.insertBefore(btn, resultDiv.nextSibling);
+  function showJson(data) {
+    // Show raw JSON above the result
+    resultDiv.innerHTML = `<h2>Raw JSON Response</h2><pre style='background:#222;color:#e3e8ff;padding:1em;border-radius:8px;overflow-x:auto;'>${JSON.stringify(
+      data,
+      null,
+      2
+    )}</pre>`;
   }
 
   function displayResult(data) {
-    if (!data || !Array.isArray(data.data)) {
-      resultDiv.textContent = "No data found in PDF.";
-      resultDiv.className = "response-info";
+    if (!data || !Array.isArray(data.data) || data.count === 0) {
+      resultDiv.innerHTML += `<div class='response-info' style='margin-top:1em;'>No data found in PDF.</div>`;
       return;
     }
 
@@ -83,7 +66,6 @@ document.addEventListener("DOMContentLoaded", function () {
       html += `<tr><td>${row["Terminal Serial"]}</td><td>${row["Payment Value"]}</td><td>${row["Days Since Last Transaction"]}</td></tr>`;
     }
     html += "</tbody></table>";
-    resultDiv.innerHTML = html;
-    resultDiv.className = "response-success";
+    resultDiv.innerHTML += `<div class='response-success' style='margin-top:1em;'>${html}</div>`;
   }
 });
