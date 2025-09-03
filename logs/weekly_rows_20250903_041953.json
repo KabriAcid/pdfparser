@@ -1,0 +1,2582 @@
+{
+  "message": "Weekly section extracted successfully.",
+  "count": 368,
+  "rows": [
+    {
+      "S/N": 1,
+      "Terminal Serial": "P260300662408",
+      "Payment Value": "67,349,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 34
+    },
+    {
+      "S/N": 2,
+      "Terminal Serial": "P260300738594",
+      "Payment Value": "48,743,600.00",
+      "Days Since Last Transaction": "0",
+      "Page": 34
+    },
+    {
+      "S/N": 3,
+      "Terminal Serial": "59241119420241",
+      "Payment Value": "38,137,600.00",
+      "Days Since Last Transaction": "0",
+      "Page": 34
+    },
+    {
+      "S/N": 4,
+      "Terminal Serial": "D300241224149059",
+      "Payment Value": "31,802,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 34
+    },
+    {
+      "S/N": 5,
+      "Terminal Serial": "P260301103393",
+      "Payment Value": "29,198,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 34
+    },
+    {
+      "S/N": 6,
+      "Terminal Serial": "P260301701445",
+      "Payment Value": "24,641,550.00",
+      "Days Since Last Transaction": "0",
+      "Page": 34
+    },
+    {
+      "S/N": 7,
+      "Terminal Serial": "P260300623151",
+      "Payment Value": "24,478,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 34
+    },
+    {
+      "S/N": 8,
+      "Terminal Serial": "P260301892448",
+      "Payment Value": "23,257,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 34
+    },
+    {
+      "S/N": 9,
+      "Terminal Serial": "P260300049787",
+      "Payment Value": "16,876,860.00",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 10,
+      "Terminal Serial": "P260301632368",
+      "Payment Value": "15,331,350.00",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 11,
+      "Terminal Serial": "P260301496133",
+      "Payment Value": "15,282,900.00",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 12,
+      "Terminal Serial": "C4BP008D03531422",
+      "Payment Value": "14,203,949.99",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 13,
+      "Terminal Serial": "P260300611380",
+      "Payment Value": "13,544,890.01",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 14,
+      "Terminal Serial": "P260300185623",
+      "Payment Value": "12,866,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 16,
+      "Terminal Serial": "P260301496134",
+      "Payment Value": "12,309,640.00",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 17,
+      "Terminal Serial": "P260300482448",
+      "Payment Value": "9,934,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 18,
+      "Terminal Serial": "59250311031465",
+      "Payment Value": "9,357,350.00",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 19,
+      "Terminal Serial": "P260300732506",
+      "Payment Value": "9,070,320.00",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 20,
+      "Terminal Serial": "P260301121659",
+      "Payment Value": "8,718,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 21,
+      "Terminal Serial": "P260301480366",
+      "Payment Value": "8,289,700.00",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 22,
+      "Terminal Serial": "D300250205030695",
+      "Payment Value": "8,267,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 23,
+      "Terminal Serial": "P260301673197",
+      "Payment Value": "7,750,050.00",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 24,
+      "Terminal Serial": "P260301184444",
+      "Payment Value": "7,359,800.00",
+      "Days Since Last Transaction": "0",
+      "Page": 35
+    },
+    {
+      "S/N": 25,
+      "Terminal Serial": "P260300623155",
+      "Payment Value": "6,551,650.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 26,
+      "Terminal Serial": "P260300705231",
+      "Payment Value": "6,318,440.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 27,
+      "Terminal Serial": "P260301742344",
+      "Payment Value": "6,315,840.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 28,
+      "Terminal Serial": "D300241117021025",
+      "Payment Value": "6,155,300.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 29,
+      "Terminal Serial": "D300241224022678",
+      "Payment Value": "6,149,250.08",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 30,
+      "Terminal Serial": "P260301299766",
+      "Payment Value": "6,042,790.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 31,
+      "Terminal Serial": "P260300738593",
+      "Payment Value": "5,682,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 32,
+      "Terminal Serial": "P260301089718",
+      "Payment Value": "5,275,650.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 33,
+      "Terminal Serial": "P260301789609",
+      "Payment Value": "4,951,420.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 34,
+      "Terminal Serial": "P260301480372",
+      "Payment Value": "4,908,040.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 35,
+      "Terminal Serial": "P260301373769",
+      "Payment Value": "4,618,180.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 36,
+      "Terminal Serial": "D300241117077221",
+      "Payment Value": "4,438,300.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 37,
+      "Terminal Serial": "P260301597020",
+      "Payment Value": "4,308,300.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 38,
+      "Terminal Serial": "D300241117021023",
+      "Payment Value": "4,139,880.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 39,
+      "Terminal Serial": "P260302378133",
+      "Payment Value": "4,132,360.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 40,
+      "Terminal Serial": "P260301602414",
+      "Payment Value": "4,114,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 36
+    },
+    {
+      "S/N": 41,
+      "Terminal Serial": "59250311036203",
+      "Payment Value": "4,024,522.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 42,
+      "Terminal Serial": "P260301796646",
+      "Payment Value": "3,992,699.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 43,
+      "Terminal Serial": "P260300377331",
+      "Payment Value": "3,948,300.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 44,
+      "Terminal Serial": "59250311023617",
+      "Payment Value": "3,929,970.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 45,
+      "Terminal Serial": "P260300667420",
+      "Payment Value": "3,793,267.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 46,
+      "Terminal Serial": "P260301480373",
+      "Payment Value": "3,615,450.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 47,
+      "Terminal Serial": "P260300348803",
+      "Payment Value": "3,581,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 48,
+      "Terminal Serial": "C4CP008D04620307",
+      "Payment Value": "3,559,800.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 49,
+      "Terminal Serial": "59250311023618",
+      "Payment Value": "3,490,050.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 50,
+      "Terminal Serial": "C4CP008D04620267",
+      "Payment Value": "3,382,700.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 51,
+      "Terminal Serial": "59241119420242",
+      "Payment Value": "3,307,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 52,
+      "Terminal Serial": "P260300738592",
+      "Payment Value": "3,220,700.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 53,
+      "Terminal Serial": "59250311031464",
+      "Payment Value": "3,200,746.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 54,
+      "Terminal Serial": "59250311031463",
+      "Payment Value": "3,119,808.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 55,
+      "Terminal Serial": "P260301588939",
+      "Payment Value": "3,117,400.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 56,
+      "Terminal Serial": "C4BP008D03531423",
+      "Payment Value": "3,113,619.00",
+      "Days Since Last Transaction": "0",
+      "Page": 37
+    },
+    {
+      "S/N": 57,
+      "Terminal Serial": "D300241102035731",
+      "Payment Value": "3,006,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 58,
+      "Terminal Serial": "P260302538071",
+      "Payment Value": "3,000,700.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 59,
+      "Terminal Serial": "P260300611382",
+      "Payment Value": "2,989,800.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 60,
+      "Terminal Serial": "P260301314792",
+      "Payment Value": "2,960,700.00",
+      "Days Since Last Transaction": "2",
+      "Page": 38
+    },
+    {
+      "S/N": 61,
+      "Terminal Serial": "C4CP008D04620318",
+      "Payment Value": "2,935,250.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 62,
+      "Terminal Serial": "P260300667914",
+      "Payment Value": "2,929,050.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 63,
+      "Terminal Serial": "P260300319493",
+      "Payment Value": "2,917,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 64,
+      "Terminal Serial": "C47P008D02328978",
+      "Payment Value": "2,876,840.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 65,
+      "Terminal Serial": "P260301254359",
+      "Payment Value": "2,753,900.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 66,
+      "Terminal Serial": "P260300383023",
+      "Payment Value": "2,639,900.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 67,
+      "Terminal Serial": "D300241224107495",
+      "Payment Value": "2,627,940.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 68,
+      "Terminal Serial": "P260300644044",
+      "Payment Value": "2,499,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 69,
+      "Terminal Serial": "P260301268325",
+      "Payment Value": "2,327,050.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 70,
+      "Terminal Serial": "P260300778320",
+      "Payment Value": "2,275,100.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 71,
+      "Terminal Serial": "P260301205136",
+      "Payment Value": "2,257,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 72,
+      "Terminal Serial": "P260302063696",
+      "Payment Value": "2,252,350.00",
+      "Days Since Last Transaction": "0",
+      "Page": 38
+    },
+    {
+      "S/N": 73,
+      "Terminal Serial": "P260301190391",
+      "Payment Value": "2,224,580.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 74,
+      "Terminal Serial": "P260302038763",
+      "Payment Value": "2,211,028.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 75,
+      "Terminal Serial": "P260300983758",
+      "Payment Value": "2,141,050.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 76,
+      "Terminal Serial": "P260300313741",
+      "Payment Value": "2,083,550.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 77,
+      "Terminal Serial": "C4CP008D04603023",
+      "Payment Value": "2,073,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 78,
+      "Terminal Serial": "C4CP008D04603030",
+      "Payment Value": "2,053,450.00",
+      "Days Since Last Transaction": "1",
+      "Page": 39
+    },
+    {
+      "S/N": 79,
+      "Terminal Serial": "C4CP008D04603040",
+      "Payment Value": "1,926,980.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 80,
+      "Terminal Serial": "P260300983745",
+      "Payment Value": "1,745,400.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 81,
+      "Terminal Serial": "C41P008D01500206",
+      "Payment Value": "1,740,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 82,
+      "Terminal Serial": "D300241224107492",
+      "Payment Value": "1,708,930.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 83,
+      "Terminal Serial": "A42P008D01905404",
+      "Payment Value": "1,699,550.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 84,
+      "Terminal Serial": "P260301192601",
+      "Payment Value": "1,656,490.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 85,
+      "Terminal Serial": "P260301254348",
+      "Payment Value": "1,628,460.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 86,
+      "Terminal Serial": "P260301793783",
+      "Payment Value": "1,624,450.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 87,
+      "Terminal Serial": "C4CP008D04620274",
+      "Payment Value": "1,603,600.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 88,
+      "Terminal Serial": "P260301872419",
+      "Payment Value": "1,592,647.00",
+      "Days Since Last Transaction": "0",
+      "Page": 39
+    },
+    {
+      "S/N": 89,
+      "Terminal Serial": "P260300983746",
+      "Payment Value": "1,563,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 90,
+      "Terminal Serial": "P260300630872",
+      "Payment Value": "1,552,430.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 91,
+      "Terminal Serial": "P260300667426",
+      "Payment Value": "1,543,810.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 92,
+      "Terminal Serial": "P260300053671",
+      "Payment Value": "1,529,800.00",
+      "Days Since Last Transaction": "1",
+      "Page": 40
+    },
+    {
+      "S/N": 93,
+      "Terminal Serial": "P260300411502",
+      "Payment Value": "1,519,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 94,
+      "Terminal Serial": "C4CP008D04603025",
+      "Payment Value": "1,508,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 95,
+      "Terminal Serial": "P260300565717",
+      "Payment Value": "1,493,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 96,
+      "Terminal Serial": "P260300747051",
+      "Payment Value": "1,450,090.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 97,
+      "Terminal Serial": "P260301290077",
+      "Payment Value": "1,425,450.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 98,
+      "Terminal Serial": "P260302333804",
+      "Payment Value": "1,369,600.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 99,
+      "Terminal Serial": "P260301789608",
+      "Payment Value": "1,365,990.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 100,
+      "Terminal Serial": "P260301565514",
+      "Payment Value": "1,365,030.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 101,
+      "Terminal Serial": "59241227040133",
+      "Payment Value": "1,344,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 102,
+      "Terminal Serial": "P260300730599",
+      "Payment Value": "1,339,580.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 103,
+      "Terminal Serial": "P260301061361",
+      "Payment Value": "1,327,630.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 104,
+      "Terminal Serial": "C4BP008D03531425",
+      "Payment Value": "1,327,498.00",
+      "Days Since Last Transaction": "0",
+      "Page": 40
+    },
+    {
+      "S/N": 105,
+      "Terminal Serial": "P260301128780",
+      "Payment Value": "1,296,590.00",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 106,
+      "Terminal Serial": "C53P008D05105679",
+      "Payment Value": "1,289,360.00",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 107,
+      "Terminal Serial": "P260301092681",
+      "Payment Value": "1,259,490.00",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 108,
+      "Terminal Serial": "D300250205030692",
+      "Payment Value": "1,257,100.00",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 109,
+      "Terminal Serial": "C44P008D02334262",
+      "Payment Value": "1,255,850.00",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 110,
+      "Terminal Serial": "C4CP008D04610309",
+      "Payment Value": "1,254,180.00",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 111,
+      "Terminal Serial": "P260302063694",
+      "Payment Value": "1,253,900.00",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 112,
+      "Terminal Serial": "P260301089707",
+      "Payment Value": "1,193,310.10",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 113,
+      "Terminal Serial": "P260301373774",
+      "Payment Value": "1,189,450.00",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 114,
+      "Terminal Serial": "D300241117021024",
+      "Payment Value": "1,166,350.00",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 115,
+      "Terminal Serial": "P260300799103",
+      "Payment Value": "1,166,000.00",
+      "Days Since Last Transaction": "2",
+      "Page": 41
+    },
+    {
+      "S/N": 116,
+      "Terminal Serial": "P260301847039",
+      "Payment Value": "1,155,250.00",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 117,
+      "Terminal Serial": "P260300077447",
+      "Payment Value": "1,151,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 118,
+      "Terminal Serial": "D300241117021022",
+      "Payment Value": "1,145,700.00",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 119,
+      "Terminal Serial": "P260300112576",
+      "Payment Value": "1,119,552.00",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 120,
+      "Terminal Serial": "P260301037385",
+      "Payment Value": "1,111,600.00",
+      "Days Since Last Transaction": "0",
+      "Page": 41
+    },
+    {
+      "S/N": 121,
+      "Terminal Serial": "P260300136471",
+      "Payment Value": "1,104,450.00",
+      "Days Since Last Transaction": "0",
+      "Page": 42
+    },
+    {
+      "S/N": 122,
+      "Terminal Serial": "P260300977572",
+      "Payment Value": "1,100,700.00",
+      "Days Since Last Transaction": "0",
+      "Page": 42
+    },
+    {
+      "S/N": 123,
+      "Terminal Serial": "P260301606615",
+      "Payment Value": "1,095,950.00",
+      "Days Since Last Transaction": "0",
+      "Page": 42
+    },
+    {
+      "S/N": 124,
+      "Terminal Serial": "D300241117026257",
+      "Payment Value": "1,092,450.00",
+      "Days Since Last Transaction": "0",
+      "Page": 42
+    },
+    {
+      "S/N": 125,
+      "Terminal Serial": "P260300732500",
+      "Payment Value": "1,021,850.00",
+      "Days Since Last Transaction": "0",
+      "Page": 42
+    },
+    {
+      "S/N": 126,
+      "Terminal Serial": "P260300174361",
+      "Payment Value": "1,020,749.00",
+      "Days Since Last Transaction": "1",
+      "Page": 42
+    },
+    {
+      "S/N": 127,
+      "Terminal Serial": "D300241117061846",
+      "Payment Value": "1,017,620.00",
+      "Days Since Last Transaction": "0",
+      "Page": 42
+    },
+    {
+      "S/N": 128,
+      "Terminal Serial": "P260300309184",
+      "Payment Value": "993,400.00",
+      "Days Since Last Transaction": "0",
+      "Page": 42
+    },
+    {
+      "S/N": 129,
+      "Terminal Serial": "P260301496131",
+      "Payment Value": "973,400.00",
+      "Days Since Last Transaction": "0",
+      "Page": 42
+    },
+    {
+      "S/N": 130,
+      "Terminal Serial": "P260302538072",
+      "Payment Value": "970,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 42
+    },
+    {
+      "S/N": 131,
+      "Terminal Serial": "P260301099347",
+      "Payment Value": "957,750.00",
+      "Days Since Last Transaction": "0",
+      "Page": 42
+    },
+    {
+      "S/N": 132,
+      "Terminal Serial": "C48P008D03313900",
+      "Payment Value": "952,800.00",
+      "Days Since Last Transaction": "0",
+      "Page": 42
+    },
+    {
+      "S/N": 133,
+      "Terminal Serial": "C4CP008D04610310",
+      "Payment Value": "949,400.00",
+      "Days Since Last Transaction": "0",
+      "Page": 42
+    },
+    {
+      "S/N": 134,
+      "Terminal Serial": "P260300658891",
+      "Payment Value": "947,550.00",
+      "Days Since Last Transaction": "2",
+      "Page": 42
+    },
+    {
+      "S/N": 135,
+      "Terminal Serial": "P260302538073",
+      "Payment Value": "936,150.00",
+      "Days Since Last Transaction": "0",
+      "Page": 42
+    },
+    {
+      "S/N": 136,
+      "Terminal Serial": "P260300665988",
+      "Payment Value": "932,900.00",
+      "Days Since Last Transaction": "0",
+      "Page": 42
+    },
+    {
+      "S/N": 137,
+      "Terminal Serial": "P260300618606",
+      "Payment Value": "927,980.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 138,
+      "Terminal Serial": "P260300349068",
+      "Payment Value": "924,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 139,
+      "Terminal Serial": "D300241224048960",
+      "Payment Value": "921,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 140,
+      "Terminal Serial": "P260300309175",
+      "Payment Value": "917,850.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 141,
+      "Terminal Serial": "P260300808558",
+      "Payment Value": "907,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 142,
+      "Terminal Serial": "P260300069095",
+      "Payment Value": "889,700.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 143,
+      "Terminal Serial": "C4BP008D03515661",
+      "Payment Value": "829,800.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 144,
+      "Terminal Serial": "P260300983756",
+      "Payment Value": "817,550.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 145,
+      "Terminal Serial": "P260301099345",
+      "Payment Value": "811,900.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 146,
+      "Terminal Serial": "P260300186551",
+      "Payment Value": "775,650.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 147,
+      "Terminal Serial": "P260300807298",
+      "Payment Value": "772,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 148,
+      "Terminal Serial": "P260301480371",
+      "Payment Value": "759,400.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 149,
+      "Terminal Serial": "P260300843370",
+      "Payment Value": "738,800.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 150,
+      "Terminal Serial": "59250311036204",
+      "Payment Value": "723,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 151,
+      "Terminal Serial": "P260300983747",
+      "Payment Value": "715,950.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 152,
+      "Terminal Serial": "P260300705230",
+      "Payment Value": "700,623.00",
+      "Days Since Last Transaction": "0",
+      "Page": 43
+    },
+    {
+      "S/N": 153,
+      "Terminal Serial": "P260301494373",
+      "Payment Value": "700,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 44
+    },
+    {
+      "S/N": 154,
+      "Terminal Serial": "C4CP008D04620311",
+      "Payment Value": "669,600.00",
+      "Days Since Last Transaction": "0",
+      "Page": 44
+    },
+    {
+      "S/N": 155,
+      "Terminal Serial": "P260301373770",
+      "Payment Value": "661,400.00",
+      "Days Since Last Transaction": "0",
+      "Page": 44
+    },
+    {
+      "S/N": 156,
+      "Terminal Serial": "P260300806120",
+      "Payment Value": "647,576.00",
+      "Days Since Last Transaction": "2",
+      "Page": 44
+    },
+    {
+      "S/N": 157,
+      "Terminal Serial": "D300250205022880",
+      "Payment Value": "644,800.00",
+      "Days Since Last Transaction": "0",
+      "Page": 44
+    },
+    {
+      "S/N": 158,
+      "Terminal Serial": "P260300643892",
+      "Payment Value": "642,800.00",
+      "Days Since Last Transaction": "0",
+      "Page": 44
+    },
+    {
+      "S/N": 159,
+      "Terminal Serial": "P260301832496",
+      "Payment Value": "640,400.00",
+      "Days Since Last Transaction": "2",
+      "Page": 44
+    },
+    {
+      "S/N": 160,
+      "Terminal Serial": "C44P008D02316393",
+      "Payment Value": "624,300.00",
+      "Days Since Last Transaction": "0",
+      "Page": 44
+    },
+    {
+      "S/N": 161,
+      "Terminal Serial": "P260302538777",
+      "Payment Value": "620,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 44
+    },
+    {
+      "S/N": 162,
+      "Terminal Serial": "P260301170441",
+      "Payment Value": "619,150.00",
+      "Days Since Last Transaction": "0",
+      "Page": 44
+    },
+    {
+      "S/N": 163,
+      "Terminal Serial": "P260301021097",
+      "Payment Value": "619,100.00",
+      "Days Since Last Transaction": "0",
+      "Page": 44
+    },
+    {
+      "S/N": 164,
+      "Terminal Serial": "P260301673196",
+      "Payment Value": "616,544.00",
+      "Days Since Last Transaction": "0",
+      "Page": 44
+    },
+    {
+      "S/N": 165,
+      "Terminal Serial": "P260300611385",
+      "Payment Value": "610,600.00",
+      "Days Since Last Transaction": "2",
+      "Page": 44
+    },
+    {
+      "S/N": 166,
+      "Terminal Serial": "P260300844668",
+      "Payment Value": "609,520.00",
+      "Days Since Last Transaction": "0",
+      "Page": 44
+    },
+    {
+      "S/N": 167,
+      "Terminal Serial": "P260301494372",
+      "Payment Value": "609,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 44
+    },
+    {
+      "S/N": 168,
+      "Terminal Serial": "P260300135633",
+      "Payment Value": "565,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 44
+    },
+    {
+      "S/N": 169,
+      "Terminal Serial": "59240720414743",
+      "Payment Value": "564,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 45
+    },
+    {
+      "S/N": 170,
+      "Terminal Serial": "P260300984792",
+      "Payment Value": "546,150.00",
+      "Days Since Last Transaction": "0",
+      "Page": 45
+    },
+    {
+      "S/N": 171,
+      "Terminal Serial": "C4CP008D04603031",
+      "Payment Value": "543,700.00",
+      "Days Since Last Transaction": "0",
+      "Page": 45
+    },
+    {
+      "S/N": 172,
+      "Terminal Serial": "P260300837800",
+      "Payment Value": "537,720.00",
+      "Days Since Last Transaction": "0",
+      "Page": 45
+    },
+    {
+      "S/N": 173,
+      "Terminal Serial": "P260300262368",
+      "Payment Value": "521,760.00",
+      "Days Since Last Transaction": "0",
+      "Page": 45
+    },
+    {
+      "S/N": 174,
+      "Terminal Serial": "P260301092680",
+      "Payment Value": "513,600.00",
+      "Days Since Last Transaction": "0",
+      "Page": 45
+    },
+    {
+      "S/N": 175,
+      "Terminal Serial": "P260301496132",
+      "Payment Value": "500,000.00",
+      "Days Since Last Transaction": "3",
+      "Page": 45
+    },
+    {
+      "S/N": 176,
+      "Terminal Serial": "P260300843376",
+      "Payment Value": "496,800.00",
+      "Days Since Last Transaction": "0",
+      "Page": 45
+    },
+    {
+      "S/N": 177,
+      "Terminal Serial": "P260300259978",
+      "Payment Value": "491,250.00",
+      "Days Since Last Transaction": "0",
+      "Page": 45
+    },
+    {
+      "S/N": 178,
+      "Terminal Serial": "C4CP008D04649475",
+      "Payment Value": "491,097.00",
+      "Days Since Last Transaction": "0",
+      "Page": 45
+    },
+    {
+      "S/N": 179,
+      "Terminal Serial": "P260300837596",
+      "Payment Value": "479,450.00",
+      "Days Since Last Transaction": "0",
+      "Page": 45
+    },
+    {
+      "S/N": 180,
+      "Terminal Serial": "C4CP008D04603034",
+      "Payment Value": "478,750.00",
+      "Days Since Last Transaction": "0",
+      "Page": 45
+    },
+    {
+      "S/N": 181,
+      "Terminal Serial": "59240720414742",
+      "Payment Value": "476,220.00",
+      "Days Since Last Transaction": "0",
+      "Page": 45
+    },
+    {
+      "S/N": 182,
+      "Terminal Serial": "P260300327714",
+      "Payment Value": "468,800.00",
+      "Days Since Last Transaction": "0",
+      "Page": 45
+    },
+    {
+      "S/N": 183,
+      "Terminal Serial": "P260300783871",
+      "Payment Value": "455,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 45
+    },
+    {
+      "S/N": 184,
+      "Terminal Serial": "P260301290348",
+      "Payment Value": "452,750.00",
+      "Days Since Last Transaction": "2",
+      "Page": 45
+    },
+    {
+      "S/N": 185,
+      "Terminal Serial": "D300250205020020",
+      "Payment Value": "451,300.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 186,
+      "Terminal Serial": "59250311007306",
+      "Payment Value": "445,580.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 187,
+      "Terminal Serial": "59241227042579",
+      "Payment Value": "432,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 188,
+      "Terminal Serial": "P260300843379",
+      "Payment Value": "425,104.00",
+      "Days Since Last Transaction": "3",
+      "Page": 46
+    },
+    {
+      "S/N": 189,
+      "Terminal Serial": "C48P008D03313898",
+      "Payment Value": "424,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 190,
+      "Terminal Serial": "P260301061362",
+      "Payment Value": "413,100.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 191,
+      "Terminal Serial": "P260301796648",
+      "Payment Value": "410,580.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 192,
+      "Terminal Serial": "P260300170592",
+      "Payment Value": "395,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 193,
+      "Terminal Serial": "P260300395981",
+      "Payment Value": "389,250.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 194,
+      "Terminal Serial": "P260300241175",
+      "Payment Value": "385,650.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 195,
+      "Terminal Serial": "C4CP008D04649379",
+      "Payment Value": "360,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 196,
+      "Terminal Serial": "P260301299765",
+      "Payment Value": "359,100.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 197,
+      "Terminal Serial": "P260301792360",
+      "Payment Value": "357,650.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 198,
+      "Terminal Serial": "D300250205043179",
+      "Payment Value": "357,250.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 199,
+      "Terminal Serial": "P260301301475",
+      "Payment Value": "348,470.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 200,
+      "Terminal Serial": "D300241224069800",
+      "Payment Value": "340,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 46
+    },
+    {
+      "S/N": 201,
+      "Terminal Serial": "D300241224030914",
+      "Payment Value": "339,199.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 202,
+      "Terminal Serial": "P260301176062",
+      "Payment Value": "325,150.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 203,
+      "Terminal Serial": "P260301638482",
+      "Payment Value": "322,800.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 204,
+      "Terminal Serial": "A42P008D01905415",
+      "Payment Value": "318,900.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 205,
+      "Terminal Serial": "P260300342190",
+      "Payment Value": "317,650.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 206,
+      "Terminal Serial": "P260301213548",
+      "Payment Value": "298,350.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 207,
+      "Terminal Serial": "C4CP008D04645356",
+      "Payment Value": "295,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 208,
+      "Terminal Serial": "P260300111361",
+      "Payment Value": "287,810.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 209,
+      "Terminal Serial": "59241119420244",
+      "Payment Value": "277,160.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 210,
+      "Terminal Serial": "P260300808559",
+      "Payment Value": "277,100.00",
+      "Days Since Last Transaction": "1",
+      "Page": 47
+    },
+    {
+      "S/N": 211,
+      "Terminal Serial": "P260300662405",
+      "Payment Value": "275,650.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 212,
+      "Terminal Serial": "59250311031461",
+      "Payment Value": "259,150.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 213,
+      "Terminal Serial": "D300250205030694",
+      "Payment Value": "259,100.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 214,
+      "Terminal Serial": "C4CP008D04620310",
+      "Payment Value": "256,400.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 215,
+      "Terminal Serial": "P260301039299",
+      "Payment Value": "256,050.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 216,
+      "Terminal Serial": "P260300478513",
+      "Payment Value": "253,750.00",
+      "Days Since Last Transaction": "0",
+      "Page": 47
+    },
+    {
+      "S/N": 217,
+      "Terminal Serial": "C4BP008D03531424",
+      "Payment Value": "251,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 48
+    },
+    {
+      "S/N": 218,
+      "Terminal Serial": "P260302619212",
+      "Payment Value": "245,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 48
+    },
+    {
+      "S/N": 219,
+      "Terminal Serial": "P260300639932",
+      "Payment Value": "239,400.00",
+      "Days Since Last Transaction": "0",
+      "Page": 48
+    },
+    {
+      "S/N": 220,
+      "Terminal Serial": "C49P008D03526321",
+      "Payment Value": "236,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 48
+    },
+    {
+      "S/N": 221,
+      "Terminal Serial": "P260300240944",
+      "Payment Value": "235,200.00",
+      "Days Since Last Transaction": "1",
+      "Page": 48
+    },
+    {
+      "S/N": 222,
+      "Terminal Serial": "59250311007305",
+      "Payment Value": "233,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 48
+    },
+    {
+      "S/N": 223,
+      "Terminal Serial": "P260300309258",
+      "Payment Value": "229,300.00",
+      "Days Since Last Transaction": "0",
+      "Page": 48
+    },
+    {
+      "S/N": 224,
+      "Terminal Serial": "P260300705232",
+      "Payment Value": "227,300.00",
+      "Days Since Last Transaction": "2",
+      "Page": 48
+    },
+    {
+      "S/N": 225,
+      "Terminal Serial": "P260302619213",
+      "Payment Value": "219,130.00",
+      "Days Since Last Transaction": "0",
+      "Page": 48
+    },
+    {
+      "S/N": 226,
+      "Terminal Serial": "P260301527034",
+      "Payment Value": "218,240.00",
+      "Days Since Last Transaction": "0",
+      "Page": 48
+    },
+    {
+      "S/N": 227,
+      "Terminal Serial": "C4CP008D04610313",
+      "Payment Value": "215,300.00",
+      "Days Since Last Transaction": "0",
+      "Page": 48
+    },
+    {
+      "S/N": 228,
+      "Terminal Serial": "P260301722605",
+      "Payment Value": "214,800.00",
+      "Days Since Last Transaction": "0",
+      "Page": 48
+    },
+    {
+      "S/N": 229,
+      "Terminal Serial": "P260301030580",
+      "Payment Value": "209,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 48
+    },
+    {
+      "S/N": 230,
+      "Terminal Serial": "P260301061733",
+      "Payment Value": "204,250.00",
+      "Days Since Last Transaction": "0",
+      "Page": 48
+    },
+    {
+      "S/N": 231,
+      "Terminal Serial": "P260300983749",
+      "Payment Value": "202,800.00",
+      "Days Since Last Transaction": "0",
+      "Page": 48
+    },
+    {
+      "S/N": 232,
+      "Terminal Serial": "P260301089708",
+      "Payment Value": "201,100.00",
+      "Days Since Last Transaction": "0",
+      "Page": 48
+    },
+    {
+      "S/N": 233,
+      "Terminal Serial": "P260301725704",
+      "Payment Value": "196,100.00",
+      "Days Since Last Transaction": "0",
+      "Page": 49
+    },
+    {
+      "S/N": 234,
+      "Terminal Serial": "P260301480369",
+      "Payment Value": "191,400.00",
+      "Days Since Last Transaction": "0",
+      "Page": 49
+    },
+    {
+      "S/N": 235,
+      "Terminal Serial": "59250311007302",
+      "Payment Value": "191,250.00",
+      "Days Since Last Transaction": "0",
+      "Page": 49
+    },
+    {
+      "S/N": 236,
+      "Terminal Serial": "P260300343708",
+      "Payment Value": "184,700.00",
+      "Days Since Last Transaction": "0",
+      "Page": 49
+    },
+    {
+      "S/N": 237,
+      "Terminal Serial": "P260300478438",
+      "Payment Value": "183,250.00",
+      "Days Since Last Transaction": "0",
+      "Page": 49
+    },
+    {
+      "S/N": 238,
+      "Terminal Serial": "P260301588928",
+      "Payment Value": "182,000.00",
+      "Days Since Last Transaction": "1",
+      "Page": 49
+    },
+    {
+      "S/N": 239,
+      "Terminal Serial": "P260300747052",
+      "Payment Value": "176,500.00",
+      "Days Since Last Transaction": "1",
+      "Page": 49
+    },
+    {
+      "S/N": 240,
+      "Terminal Serial": "C4CP008D04603036",
+      "Payment Value": "174,808.00",
+      "Days Since Last Transaction": "0",
+      "Page": 49
+    },
+    {
+      "S/N": 241,
+      "Terminal Serial": "P260301040578",
+      "Payment Value": "166,100.00",
+      "Days Since Last Transaction": "0",
+      "Page": 49
+    },
+    {
+      "S/N": 242,
+      "Terminal Serial": "P260300547343",
+      "Payment Value": "165,100.00",
+      "Days Since Last Transaction": "3",
+      "Page": 49
+    },
+    {
+      "S/N": 243,
+      "Terminal Serial": "C53P008D05105677",
+      "Payment Value": "165,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 49
+    },
+    {
+      "S/N": 244,
+      "Terminal Serial": "P260301061735",
+      "Payment Value": "164,450.00",
+      "Days Since Last Transaction": "0",
+      "Page": 49
+    },
+    {
+      "S/N": 245,
+      "Terminal Serial": "P260300341855",
+      "Payment Value": "162,900.00",
+      "Days Since Last Transaction": "0",
+      "Page": 49
+    },
+    {
+      "S/N": 246,
+      "Terminal Serial": "P260301299767",
+      "Payment Value": "157,000.00",
+      "Days Since Last Transaction": "5",
+      "Page": 49
+    },
+    {
+      "S/N": 247,
+      "Terminal Serial": "C4CP008D04603028",
+      "Payment Value": "152,660.00",
+      "Days Since Last Transaction": "0",
+      "Page": 49
+    },
+    {
+      "S/N": 248,
+      "Terminal Serial": "P260301254349",
+      "Payment Value": "150,950.00",
+      "Days Since Last Transaction": "0",
+      "Page": 49
+    },
+    {
+      "S/N": 249,
+      "Terminal Serial": "P260302619211",
+      "Payment Value": "150,000.00",
+      "Days Since Last Transaction": "4",
+      "Page": 50
+    },
+    {
+      "S/N": 250,
+      "Terminal Serial": "D300241224028167",
+      "Payment Value": "150,000.00",
+      "Days Since Last Transaction": "3",
+      "Page": 50
+    },
+    {
+      "S/N": 251,
+      "Terminal Serial": "P260300348807",
+      "Payment Value": "146,400.00",
+      "Days Since Last Transaction": "0",
+      "Page": 50
+    },
+    {
+      "S/N": 252,
+      "Terminal Serial": "P260300851775",
+      "Payment Value": "146,000.00",
+      "Days Since Last Transaction": "2",
+      "Page": 50
+    },
+    {
+      "S/N": 253,
+      "Terminal Serial": "D300241224022676",
+      "Payment Value": "145,850.00",
+      "Days Since Last Transaction": "0",
+      "Page": 50
+    },
+    {
+      "S/N": 254,
+      "Terminal Serial": "D300250205043166",
+      "Payment Value": "141,900.00",
+      "Days Since Last Transaction": "0",
+      "Page": 50
+    },
+    {
+      "S/N": 255,
+      "Terminal Serial": "P260301841102",
+      "Payment Value": "140,300.00",
+      "Days Since Last Transaction": "0",
+      "Page": 50
+    },
+    {
+      "S/N": 256,
+      "Terminal Serial": "P260301728684",
+      "Payment Value": "139,450.00",
+      "Days Since Last Transaction": "0",
+      "Page": 50
+    },
+    {
+      "S/N": 257,
+      "Terminal Serial": "59250311023619",
+      "Payment Value": "139,150.00",
+      "Days Since Last Transaction": "0",
+      "Page": 50
+    },
+    {
+      "S/N": 258,
+      "Terminal Serial": "P260302363552",
+      "Payment Value": "137,900.00",
+      "Days Since Last Transaction": "1",
+      "Page": 50
+    },
+    {
+      "S/N": 259,
+      "Terminal Serial": "59241119478683",
+      "Payment Value": "135,900.00",
+      "Days Since Last Transaction": "0",
+      "Page": 50
+    },
+    {
+      "S/N": 260,
+      "Terminal Serial": "P260300136842",
+      "Payment Value": "131,100.00",
+      "Days Since Last Transaction": "0",
+      "Page": 50
+    },
+    {
+      "S/N": 261,
+      "Terminal Serial": "C49P008D03526326",
+      "Payment Value": "121,300.00",
+      "Days Since Last Transaction": "0",
+      "Page": 50
+    },
+    {
+      "S/N": 262,
+      "Terminal Serial": "P260300744159",
+      "Payment Value": "119,520.00",
+      "Days Since Last Transaction": "0",
+      "Page": 50
+    },
+    {
+      "S/N": 263,
+      "Terminal Serial": "P260301337249",
+      "Payment Value": "115,050.00",
+      "Days Since Last Transaction": "1",
+      "Page": 50
+    },
+    {
+      "S/N": 264,
+      "Terminal Serial": "70230808431043",
+      "Payment Value": "109,350.00",
+      "Days Since Last Transaction": "0",
+      "Page": 50
+    },
+    {
+      "S/N": 265,
+      "Terminal Serial": "P260300744048",
+      "Payment Value": "107,100.00",
+      "Days Since Last Transaction": "0",
+      "Page": 51
+    },
+    {
+      "S/N": 266,
+      "Terminal Serial": "P260300837597",
+      "Payment Value": "105,850.00",
+      "Days Since Last Transaction": "0",
+      "Page": 51
+    },
+    {
+      "S/N": 267,
+      "Terminal Serial": "C45P008D02336475",
+      "Payment Value": "105,600.00",
+      "Days Since Last Transaction": "0",
+      "Page": 51
+    },
+    {
+      "S/N": 268,
+      "Terminal Serial": "D300250205030693",
+      "Payment Value": "100,450.00",
+      "Days Since Last Transaction": "0",
+      "Page": 51
+    },
+    {
+      "S/N": 269,
+      "Terminal Serial": "59241119478682",
+      "Payment Value": "100,140.00",
+      "Days Since Last Transaction": "0",
+      "Page": 51
+    },
+    {
+      "S/N": 270,
+      "Terminal Serial": "P260300611383",
+      "Payment Value": "90,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 51
+    },
+    {
+      "S/N": 271,
+      "Terminal Serial": "D300241224049522",
+      "Payment Value": "85,300.00",
+      "Days Since Last Transaction": "0",
+      "Page": 51
+    },
+    {
+      "S/N": 272,
+      "Terminal Serial": "P260301527035",
+      "Payment Value": "81,250.00",
+      "Days Since Last Transaction": "0",
+      "Page": 51
+    },
+    {
+      "S/N": 273,
+      "Terminal Serial": "P260301480368",
+      "Payment Value": "76,600.00",
+      "Days Since Last Transaction": "0",
+      "Page": 51
+    },
+    {
+      "S/N": 274,
+      "Terminal Serial": "P260301301831",
+      "Payment Value": "75,200.00",
+      "Days Since Last Transaction": "0",
+      "Page": 51
+    },
+    {
+      "S/N": 275,
+      "Terminal Serial": "59241119478684",
+      "Payment Value": "60,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 51
+    },
+    {
+      "S/N": 276,
+      "Terminal Serial": "D300241224022679",
+      "Payment Value": "57,000.00",
+      "Days Since Last Transaction": "0",
+      "Page": 51
+    },
+    {
+      "S/N": 277,
+      "Terminal Serial": "P260300983759",
+      "Payment Value": "56,700.00",
+      "Days Since Last Transaction": "0",
+      "Page": 51
+    },
+    {
+      "S/N": 278,
+      "Terminal Serial": "P260300339493",
+      "Payment Value": "56,000.00",
+      "Days Since Last Transaction": "1",
+      "Page": 51
+    },
+    {
+      "S/N": 279,
+      "Terminal Serial": "P260301001040",
+      "Payment Value": "55,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 51
+    },
+    {
+      "S/N": 280,
+      "Terminal Serial": "C4BP008D03531421",
+      "Payment Value": "52,800.00",
+      "Days Since Last Transaction": "1",
+      "Page": 51
+    },
+    {
+      "S/N": 281,
+      "Terminal Serial": "C4CP008D04649480",
+      "Payment Value": "50,650.00",
+      "Days Since Last Transaction": "0",
+      "Page": 52
+    },
+    {
+      "S/N": 282,
+      "Terminal Serial": "70250116409527",
+      "Payment Value": "50,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 52
+    },
+    {
+      "S/N": 283,
+      "Terminal Serial": "P260300241087",
+      "Payment Value": "48,400.00",
+      "Days Since Last Transaction": "0",
+      "Page": 52
+    },
+    {
+      "S/N": 284,
+      "Terminal Serial": "D300241016024589",
+      "Payment Value": "40,000.00",
+      "Days Since Last Transaction": "2",
+      "Page": 52
+    },
+    {
+      "S/N": 285,
+      "Terminal Serial": "P260300787294",
+      "Payment Value": "38,700.00",
+      "Days Since Last Transaction": "0",
+      "Page": 52
+    },
+    {
+      "S/N": 286,
+      "Terminal Serial": "P260301375596",
+      "Payment Value": "33,600.00",
+      "Days Since Last Transaction": "0",
+      "Page": 52
+    },
+    {
+      "S/N": 287,
+      "Terminal Serial": "P260300102860",
+      "Payment Value": "33,300.00",
+      "Days Since Last Transaction": "0",
+      "Page": 52
+    },
+    {
+      "S/N": 288,
+      "Terminal Serial": "C4CP008D04603039",
+      "Payment Value": "32,100.00",
+      "Days Since Last Transaction": "0",
+      "Page": 52
+    },
+    {
+      "S/N": 289,
+      "Terminal Serial": "D300250205030691",
+      "Payment Value": "31,850.00",
+      "Days Since Last Transaction": "0",
+      "Page": 52
+    },
+    {
+      "S/N": 290,
+      "Terminal Serial": "59250311036205",
+      "Payment Value": "26,700.00",
+      "Days Since Last Transaction": "1",
+      "Page": 52
+    },
+    {
+      "S/N": 291,
+      "Terminal Serial": "C44P008D02334261",
+      "Payment Value": "23,950.00",
+      "Days Since Last Transaction": "0",
+      "Page": 52
+    },
+    {
+      "S/N": 292,
+      "Terminal Serial": "P260300843372",
+      "Payment Value": "21,000.00",
+      "Days Since Last Transaction": "2",
+      "Page": 52
+    },
+    {
+      "S/N": 293,
+      "Terminal Serial": "C48P008D03313899",
+      "Payment Value": "10,950.00",
+      "Days Since Last Transaction": "2",
+      "Page": 52
+    },
+    {
+      "S/N": 294,
+      "Terminal Serial": "D300250205043165",
+      "Payment Value": "8,050.00",
+      "Days Since Last Transaction": "6",
+      "Page": 52
+    },
+    {
+      "S/N": 295,
+      "Terminal Serial": "P260302295827",
+      "Payment Value": "6,000.00",
+      "Days Since Last Transaction": "3",
+      "Page": 52
+    },
+    {
+      "S/N": 296,
+      "Terminal Serial": "P260300977610",
+      "Payment Value": "5,400.00",
+      "Days Since Last Transaction": "4",
+      "Page": 52
+    },
+    {
+      "S/N": 297,
+      "Terminal Serial": "D300250205043176",
+      "Payment Value": "5,000.00",
+      "Days Since Last Transaction": "4",
+      "Page": 53
+    },
+    {
+      "S/N": 298,
+      "Terminal Serial": "59241119420245",
+      "Payment Value": "2,500.00",
+      "Days Since Last Transaction": "5",
+      "Page": 53
+    },
+    {
+      "S/N": 299,
+      "Terminal Serial": "P260302363553",
+      "Payment Value": "2,500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 53
+    },
+    {
+      "S/N": 300,
+      "Terminal Serial": "P260300729265",
+      "Payment Value": "2,100.00",
+      "Days Since Last Transaction": "5",
+      "Page": 53
+    },
+    {
+      "S/N": 301,
+      "Terminal Serial": "P260301061364",
+      "Payment Value": "1,000.00",
+      "Days Since Last Transaction": "2",
+      "Page": 53
+    },
+    {
+      "S/N": 302,
+      "Terminal Serial": "P260301661234",
+      "Payment Value": "770.00",
+      "Days Since Last Transaction": "0",
+      "Page": 53
+    },
+    {
+      "S/N": 303,
+      "Terminal Serial": "C49P008D03526323",
+      "Payment Value": "500.00",
+      "Days Since Last Transaction": "0",
+      "Page": 53
+    },
+    {
+      "S/N": 304,
+      "Terminal Serial": "C42P008D01953860",
+      "Payment Value": "100.00",
+      "Days Since Last Transaction": "4",
+      "Page": 53
+    },
+    {
+      "S/N": 305,
+      "Terminal Serial": "P260301234266",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "8",
+      "Page": 53
+    },
+    {
+      "S/N": 306,
+      "Terminal Serial": "C4CP008D04603035",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "26",
+      "Page": 53
+    },
+    {
+      "S/N": 307,
+      "Terminal Serial": "C44P008D02318931",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "54",
+      "Page": 53
+    },
+    {
+      "S/N": 308,
+      "Terminal Serial": "D300250205043167",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "11",
+      "Page": 53
+    },
+    {
+      "S/N": 309,
+      "Terminal Serial": "P260301796647",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "7",
+      "Page": 53
+    },
+    {
+      "S/N": 310,
+      "Terminal Serial": "P260300309174",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "46",
+      "Page": 53
+    },
+    {
+      "S/N": 311,
+      "Terminal Serial": "P260300783869",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "7",
+      "Page": 53
+    },
+    {
+      "S/N": 312,
+      "Terminal Serial": "C48P008D03320692",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "11",
+      "Page": 53
+    },
+    {
+      "S/N": 313,
+      "Terminal Serial": "P260301548564",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "10",
+      "Page": 54
+    },
+    {
+      "S/N": 314,
+      "Terminal Serial": "A42P008D01905407",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "90",
+      "Page": 54
+    },
+    {
+      "S/N": 315,
+      "Terminal Serial": "P260300309190",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "91",
+      "Page": 54
+    },
+    {
+      "S/N": 316,
+      "Terminal Serial": "C42P008D01902875",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "20",
+      "Page": 54
+    },
+    {
+      "S/N": 317,
+      "Terminal Serial": "P260301107015",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "75",
+      "Page": 54
+    },
+    {
+      "S/N": 318,
+      "Terminal Serial": "P260301144275",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "103",
+      "Page": 54
+    },
+    {
+      "S/N": 319,
+      "Terminal Serial": "P260301349383",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "214",
+      "Page": 54
+    },
+    {
+      "S/N": 320,
+      "Terminal Serial": "P260300379629",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "61",
+      "Page": 54
+    },
+    {
+      "S/N": 321,
+      "Terminal Serial": "P260300327720",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "210",
+      "Page": 54
+    },
+    {
+      "S/N": 322,
+      "Terminal Serial": "P260300327723",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "9",
+      "Page": 54
+    },
+    {
+      "S/N": 323,
+      "Terminal Serial": "P260300806121",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "233",
+      "Page": 54
+    },
+    {
+      "S/N": 324,
+      "Terminal Serial": "D300241016004433",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "8",
+      "Page": 54
+    },
+    {
+      "S/N": 325,
+      "Terminal Serial": "P260301213549",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "54",
+      "Page": 54
+    },
+    {
+      "S/N": 326,
+      "Terminal Serial": "70230808449839",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "82",
+      "Page": 54
+    },
+    {
+      "S/N": 327,
+      "Terminal Serial": "P260300662873",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "160",
+      "Page": 54
+    },
+    {
+      "S/N": 328,
+      "Terminal Serial": "P260301107016",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "17",
+      "Page": 54
+    },
+    {
+      "S/N": 329,
+      "Terminal Serial": "P260300686084",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "35",
+      "Page": 55
+    },
+    {
+      "S/N": 330,
+      "Terminal Serial": "P260300662874",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "187",
+      "Page": 55
+    },
+    {
+      "S/N": 331,
+      "Terminal Serial": "D300241016024590",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "186",
+      "Page": 55
+    },
+    {
+      "S/N": 332,
+      "Terminal Serial": "P260300441600",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "52",
+      "Page": 55
+    },
+    {
+      "S/N": 333,
+      "Terminal Serial": "P260301859224",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "35",
+      "Page": 55
+    },
+    {
+      "S/N": 334,
+      "Terminal Serial": "C4BP008D03534020",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "81",
+      "Page": 55
+    },
+    {
+      "S/N": 335,
+      "Terminal Serial": "P260300843375",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "11",
+      "Page": 55
+    },
+    {
+      "S/N": 336,
+      "Terminal Serial": "P260300843371",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "105",
+      "Page": 55
+    },
+    {
+      "S/N": 337,
+      "Terminal Serial": "C44P008D02316395",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "129",
+      "Page": 55
+    },
+    {
+      "S/N": 338,
+      "Terminal Serial": "P260300742656",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "57",
+      "Page": 55
+    },
+    {
+      "S/N": 339,
+      "Terminal Serial": "P260300319480",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "117",
+      "Page": 55
+    },
+    {
+      "S/N": 340,
+      "Terminal Serial": "D300241224049521",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "19",
+      "Page": 55
+    },
+    {
+      "S/N": 344,
+      "Terminal Serial": "P260300737048",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "206",
+      "Page": 55
+    },
+    {
+      "S/N": 345,
+      "Terminal Serial": "P260300837599",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "161",
+      "Page": 56
+    },
+    {
+      "S/N": 346,
+      "Terminal Serial": "C4CP008D04610311",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "10",
+      "Page": 56
+    },
+    {
+      "S/N": 348,
+      "Terminal Serial": "P260300983757",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "5",
+      "Page": 56
+    },
+    {
+      "S/N": 349,
+      "Terminal Serial": "C4CP008D04603033",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "24",
+      "Page": 56
+    },
+    {
+      "S/N": 350,
+      "Terminal Serial": "P260302538075",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "7",
+      "Page": 56
+    },
+    {
+      "S/N": 351,
+      "Terminal Serial": "P260300977608",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "10",
+      "Page": 56
+    },
+    {
+      "S/N": 352,
+      "Terminal Serial": "C4CP008D04603026",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "26",
+      "Page": 56
+    },
+    {
+      "S/N": 353,
+      "Terminal Serial": "C4CP008D04649366",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "7",
+      "Page": 56
+    },
+    {
+      "S/N": 354,
+      "Terminal Serial": "C4CP008D04620306",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "8",
+      "Page": 56
+    },
+    {
+      "S/N": 355,
+      "Terminal Serial": "C4CP008D04610304",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "11",
+      "Page": 56
+    },
+    {
+      "S/N": 356,
+      "Terminal Serial": "P260302062993",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "40",
+      "Page": 56
+    },
+    {
+      "S/N": 357,
+      "Terminal Serial": "59250311007301",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "9",
+      "Page": 56
+    },
+    {
+      "S/N": 358,
+      "Terminal Serial": "P260301733752",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "168",
+      "Page": 56
+    },
+    {
+      "S/N": 359,
+      "Terminal Serial": "P260302063695",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "11",
+      "Page": 56
+    },
+    {
+      "S/N": 360,
+      "Terminal Serial": "P260301301477",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "55",
+      "Page": 56
+    },
+    {
+      "S/N": 361,
+      "Terminal Serial": "P260300611384",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "37",
+      "Page": 57
+    },
+    {
+      "S/N": 362,
+      "Terminal Serial": "P260301496130",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "81",
+      "Page": 57
+    },
+    {
+      "S/N": 363,
+      "Terminal Serial": "P260300623154",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "14",
+      "Page": 57
+    },
+    {
+      "S/N": 364,
+      "Terminal Serial": "P260300185719",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "66",
+      "Page": 57
+    },
+    {
+      "S/N": 365,
+      "Terminal Serial": "P260302538074",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "160",
+      "Page": 57
+    },
+    {
+      "S/N": 366,
+      "Terminal Serial": "P260302363541",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "13",
+      "Page": 57
+    },
+    {
+      "S/N": 367,
+      "Terminal Serial": "59250311007303",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "20",
+      "Page": 57
+    },
+    {
+      "S/N": 368,
+      "Terminal Serial": "59250311031462",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "20",
+      "Page": 57
+    },
+    {
+      "S/N": 369,
+      "Terminal Serial": "P260300185720",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "64",
+      "Page": 57
+    },
+    {
+      "S/N": 370,
+      "Terminal Serial": "P260301787263",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "59",
+      "Page": 57
+    },
+    {
+      "S/N": 371,
+      "Terminal Serial": "P260301282039",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "31",
+      "Page": 57
+    },
+    {
+      "S/N": 372,
+      "Terminal Serial": "P260301282035",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "11",
+      "Page": 57
+    },
+    {
+      "S/N": 373,
+      "Terminal Serial": "P260300182813",
+      "Payment Value": "0.00",
+      "Days Since Last Transaction": "12",
+      "Page": 57
+    }
+  ]
+}
