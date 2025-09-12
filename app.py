@@ -68,7 +68,6 @@ def extract_weekly_rows(pdf_bytes):
                             "S/N": sn_val,
                             "Terminal Serial": m.group("serial"),
                             "Payment Value": m.group("payment"),
-                            "Days Since Last Transaction": m.group("days"),
                             "Page": idx + 1
                         })
     return weekly_rows
